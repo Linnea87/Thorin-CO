@@ -38,5 +38,6 @@
    },
    "[jsonc]": {
       "editor.defaultFormatter": "vscode.json-language-features"
-   }
-}
+   },
+   "indentRainbow.indicatorStyle": "light",
+   
